@@ -1,0 +1,41 @@
+[15:30:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:30:34] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[15:30:36] [ServerMain/INFO]: Loaded 7 recipes
+[15:30:37] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[15:30:37] [Server thread/INFO]: Loading properties
+[15:30:37] [Server thread/INFO]: This server is running Pufferfish version git-Pufferfish-66 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: b778163 on HEAD)
+[15:30:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:30:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:30:37] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[15:30:37] [Server thread/WARN]: [Pufferfish] To improve performance, timings have been disabled by default
+[15:30:37] [Server thread/WARN]: [Pufferfish] You can still use timings by using /timings on, but they will not start on server startup unless you set timings.really-enabled to true in paper.yml
+[15:30:37] [Server thread/WARN]: [Pufferfish] If you would like to disable this message, either set timings.really-enabled to true or timings.enabled to false.
+[15:30:38] [Server thread/WARN]: [Pufferfish] SIMD operations are available for your server, but are not configured!
+[15:30:38] [Server thread/WARN]: [Pufferfish] To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[15:30:38] [Server thread/WARN]: [Pufferfish] If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
+[15:30:38] [Server thread/WARN]: [Pufferfish] Debug: Java: 19.0.2, test run: true
+[15:30:38] [Server thread/INFO]: Default game type: SURVIVAL
+[15:30:38] [Server thread/INFO]: Generating keypair
+[15:30:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:30:38] [Server thread/INFO]: Using default channel type
+[15:30:38] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[15:30:38] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:30:38] [Server thread/INFO]: Preparing level "world"
+[15:30:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:30:45] [Server thread/INFO]: Time elapsed: 176 ms
+[15:30:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:30:45] [Server thread/INFO]: Time elapsed: 56 ms
+[15:30:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:30:45] [Server thread/INFO]: Time elapsed: 58 ms
+[15:30:45] [Server thread/INFO]: Running delayed init tasks
+[15:30:45] [Server thread/INFO]: Done (8.248s)! For help, type "help"
+[15:30:45] [Server thread/INFO]: Timings Reset
+[15:32:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@72f0708b[id=<null>,name=Sqnemii,properties={},legacy=false] (/127.0.0.1:52885) lost connection: Disconnected
+[15:32:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@77c25a0e[id=<null>,name=Sqnemii,properties={},legacy=false] (/127.0.0.1:52899) lost connection: Disconnected
+[15:32:13] [User Authenticator #0/INFO]: UUID of player Sqnemii is e87bab57-5729-439b-bc5b-c1d1f1a92fde
+[15:32:13] [Server thread/INFO]: Sqnemii joined the game
+[15:32:13] [Server thread/INFO]: Sqnemii[/127.0.0.1:52941] logged in with entity id 465 at ([world]17.5, 78.0, -57.5)
+[15:32:21] [Server thread/INFO]: Made Sqnemii a server operator
+[15:32:24] [Server thread/INFO]: Sqnemii issued server command: /gamemode creativeq
+[15:32:25] [Server thread/INFO]: Sqnemii issued server command: /gamemode creative
+[15:32:25] [Server thread/INFO]: [Sqnemii: Set own game mode to Creative Mode]
